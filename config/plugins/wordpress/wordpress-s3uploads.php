@@ -9,7 +9,7 @@ if (!empty(getenv('AWS_S3_URL'))) {
     define('S3_UPLOADS_AUTOENABLE', true);
     define('S3_UPLOADS_KEY', $env[0]);
     define('S3_UPLOADS_SECRET', $env[1]);
-    define('S3_UPLOADS_REGION', $env[2]);
+    define('S3_UPLOADS_REGION', 'ap-northeast-1');
     define('S3_UPLOADS_BUCKET', $env[3]);
 
     unset($env);
