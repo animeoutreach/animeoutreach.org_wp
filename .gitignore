@@ -34,5 +34,6 @@ web/.htaccess
 web/app/object-cache.php
 web/app/advanced-cache.php
 !web/app/themes/nrgbusiness
+!web/app/themes/nrgbusiness-child
 
 .DS_Store
