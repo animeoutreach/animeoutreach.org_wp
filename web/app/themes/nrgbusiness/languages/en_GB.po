@@ -1,0 +1,1745 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NRGBusiness v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-11-14 07:06:42+0000\n"
+"Last-Translator: admin <test@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: comments.php:12
+#, php-format
+#@ nrgbusiness
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38
+#@ nrgbusiness
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:58
+#: comments.php:60
+#: framework/current/vc-elements/boxed-team.php:55
+#: framework/current/vc-elements/template-box.php:40
+#: framework/functions/functions.for.theme.php:153
+#: framework/functions/functions.for.theme.php:154
+#@ nrgbusiness
+msgid "Name"
+msgstr ""
+
+#: comments.php:64
+#: comments.php:66
+#: framework/functions/functions.for.theme.php:155
+#: framework/functions/functions.for.theme.php:156
+#@ nrgbusiness
+msgid "Email"
+msgstr ""
+
+#: comments.php:70
+#: comments.php:72
+#: framework/functions/functions.for.theme.php:157
+#: framework/functions/functions.for.theme.php:158
+#@ nrgbusiness
+msgid "Website"
+msgstr ""
+
+#: comments.php:81
+#@ nrgbusiness
+msgid "Your email address will not be published."
+msgstr ""
+
+#: content-loop.php:6
+#: framework/current/vc-elements/blog-posts.php:48
+#@ nrgbusiness
+msgid "Read more"
+msgstr ""
+
+#: content.php:10
+#@ nrgbusiness
+msgid "Pages:"
+msgstr ""
+
+#: content.php:14
+#@ nrgbusiness
+msgid "Page"
+msgstr ""
+
+#: framework/classes/class.meta.post.php:52
+#@ nrgbusiness
+msgid "Delete image"
+msgstr ""
+
+#: framework/classes/class.meta.post.php:52
+#@ nrgbusiness
+msgid "Delete"
+msgstr ""
+
+#: framework/classes/class.meta.post.php:61
+#@ nrgbusiness
+msgid "Add post gallery images"
+msgstr ""
+
+#: framework/classes/class.meta.post.php:68
+#@ nrgbusiness
+msgid "Post Gallery"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:333
+#: framework/functions/plugin-install.php:66
+#@ nrgbusiness
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:334
+#: framework/functions/plugin-install.php:67
+#@ nrgbusiness
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:335
+#: framework/functions/plugin-install.php:68
+#, php-format
+#@ nrgbusiness
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:338
+#: framework/functions/plugin-install.php:70
+#, php-format
+#@ themeton
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:343
+#: framework/functions/plugin-install.php:71
+#, php-format
+#@ themeton
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/functions/plugin-install.php:72
+#, php-format
+#@ themeton
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:368
+#: framework/functions/plugin-install.php:73
+#, php-format
+#@ themeton
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:373
+#: framework/functions/plugin-install.php:74
+#, php-format
+#@ themeton
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/functions/plugin-install.php:75
+#, php-format
+#@ themeton
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:353
+#: framework/functions/plugin-install.php:76
+#, php-format
+#@ themeton
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/functions/plugin-install.php:77
+#, php-format
+#@ themeton
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:383
+#: framework/functions/plugin-install.php:78
+#@ themeton
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:393
+#: framework/functions/plugin-install.php:79
+#@ themeton
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:397
+#: framework/functions/plugin-install.php:80
+#@ nrgbusiness
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:398
+#@ nrgbusiness
+msgid "Return to the dashboard"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:399
+#: framework/classes/class.tgm.plugin.activation.php:3034
+#: framework/functions/plugin-install.php:81
+#@ nrgbusiness
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:403
+#, php-format
+#@ nrgbusiness
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:404
+#@ nrgbusiness
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:833
+#: framework/classes/class.tgm.plugin.activation.php:3443
+#@ nrgbusiness
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2197
+#@ nrgbusiness
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2191
+#@ nrgbusiness
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2172
+#@ nrgbusiness
+msgid "Required"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2175
+#@ nrgbusiness
+msgid "Recommended"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2214
+#@ nrgbusiness
+msgid "Not Installed"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2218
+#@ nrgbusiness
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2496
+#, php-format
+#@ nrgbusiness
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2505
+#, php-format
+#@ nrgbusiness
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2441
+#@ nrgbusiness
+msgid "Plugin"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2442
+#@ nrgbusiness
+msgid "Source"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2443
+#@ nrgbusiness
+msgid "Type"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2448
+#@ nrgbusiness
+msgid "Status"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2608
+#@ nrgbusiness
+msgid "Install"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2617
+#@ nrgbusiness
+msgid "Activate"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2686
+#@ nrgbusiness
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2819
+#@ nrgbusiness
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: framework/classes/class.tgm.plugin.activation.php:2837
+#: framework/classes/class.tgm.plugin.activation.php:400
+#@ nrgbusiness
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3033
+#@ nrgbusiness
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3369
+#, php-format
+#@ nrgbusiness
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3370
+#, php-format
+#@ nrgbusiness
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3374
+#@ nrgbusiness
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3375
+#, php-format
+#@ nrgbusiness
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3375
+#: framework/classes/class.tgm.plugin.activation.php:3381
+#@ nrgbusiness
+msgid "Show Details"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3375
+#: framework/classes/class.tgm.plugin.activation.php:3381
+#@ nrgbusiness
+msgid "Hide Details"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3376
+#@ nrgbusiness
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3377
+#, php-format
+#@ nrgbusiness
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3380
+#@ nrgbusiness
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3381
+#, php-format
+#@ nrgbusiness
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3382
+#@ nrgbusiness
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3383
+#, php-format
+#@ nrgbusiness
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/classes/class.woo.commerce.php:44
+#@ nrgbusiness
+msgid "quick view"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:53
+#: framework/classes/class.wp.customize.controls.php:92
+#@ nrgbusiness
+msgid "Remove"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/parsers.php:42
+#: framework/classes/lib/wp.importer/parsers.php:72
+#: framework/classes/lib/wp.importer/parsers.php:80
+#@ nrgbusiness
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/parsers.php:43
+#@ nrgbusiness
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/parsers.php:84
+#: framework/classes/lib/wp.importer/parsers.php:89
+#: framework/classes/lib/wp.importer/parsers.php:279
+#: framework/classes/lib/wp.importer/parsers.php:463
+#@ nrgbusiness
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:136
+#: framework/classes/lib/wp.importer/wp.importer.php:145
+#: framework/classes/lib/wp.importer/wp.importer.php:196
+#: framework/classes/lib/wp.importer/wp.importer.php:200
+#: framework/classes/lib/wp.importer/wp.importer.php:209
+#@ nrgbusiness
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:137
+#@ nrgbusiness
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:180
+#@ nrgbusiness
+msgid "All done."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:180
+#@ nrgbusiness
+msgid "Have fun!"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:181
+#@ nrgbusiness
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:201
+#, php-format
+#@ nrgbusiness
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:217
+#, php-format
+#@ nrgbusiness
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:242
+#, php-format
+#@ nrgbusiness
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:268
+#@ nrgbusiness
+msgid "Assign Authors"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:269
+#@ nrgbusiness
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:271
+#, php-format
+#@ nrgbusiness
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:281
+#@ nrgbusiness
+msgid "Import Attachments"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:284
+#@ nrgbusiness
+msgid "Download and import file attachments"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:288
+#@ nrgbusiness
+msgid "Submit"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:301
+#@ nrgbusiness
+msgid "Import author:"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:312
+#@ nrgbusiness
+msgid "or create new user with login name:"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:315
+#@ nrgbusiness
+msgid "as a new user:"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:323
+#@ nrgbusiness
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:325
+#@ nrgbusiness
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:326
+#@ nrgbusiness
+msgid "- Select -"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:376
+#, php-format
+#@ nrgbusiness
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:427
+#, php-format
+#@ nrgbusiness
+msgid "Failed to import category %s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:467
+#, php-format
+#@ nrgbusiness
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:513
+#: framework/classes/lib/wp.importer/wp.importer.php:654
+#, php-format
+#@ nrgbusiness
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:539
+#, php-format
+#@ nrgbusiness
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:561
+#, php-format
+#@ nrgbusiness
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:620
+#, php-format
+#@ nrgbusiness
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:785
+#@ nrgbusiness
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:792
+#, php-format
+#@ nrgbusiness
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:855
+#@ nrgbusiness
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:868
+#@ nrgbusiness
+msgid "Invalid file type"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:912
+#@ nrgbusiness
+msgid "Remote server did not respond"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:918
+#, php-format
+#@ nrgbusiness
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:925
+#@ nrgbusiness
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:930
+#@ nrgbusiness
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:936
+#, php-format
+#@ nrgbusiness
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:1034
+#@ nrgbusiness
+msgid "Import WordPress"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:1041
+#, php-format
+#@ nrgbusiness
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:1056
+#@ nrgbusiness
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:1057
+#@ nrgbusiness
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:61
+#@ nrgbusiness
+msgid "After Text"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:69
+#@ nrgbusiness
+msgid "One Page Section <small>(One page template only)</small>"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:72
+#: framework/current/vc-elements/extended-tabs.php:109
+#: framework/current/vc-elements/extended-tabs.php:182
+#@ nrgbusiness
+msgid "No"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:73
+#: framework/current/vc-elements/extended-tabs.php:108
+#: framework/current/vc-elements/extended-tabs.php:181
+#@ nrgbusiness
+msgid "Yes"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:79
+#@ nrgbusiness
+msgid "Section Label"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:87
+#@ nrgbusiness
+msgid "Section slug"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:132
+#@ nrgbusiness
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:135
+#: framework/current/ExtendVCRow.php:146
+#: framework/current/ExtendVCRow.php:159
+#@ nrgbusiness
+msgid "None"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:136
+#@ nrgbusiness
+msgid "Left"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:137
+#@ nrgbusiness
+msgid "Center"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:138
+#@ nrgbusiness
+msgid "Right"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:143
+#: framework/current/ExtendVCRow.php:156
+#@ nrgbusiness
+msgid "Vertical Alignment"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:147
+#: framework/current/ExtendVCRow.php:160
+#@ nrgbusiness
+msgid "Top"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:148
+#: framework/current/ExtendVCRow.php:161
+#@ nrgbusiness
+msgid "Middle"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:149
+#: framework/current/ExtendVCRow.php:162
+#@ nrgbusiness
+msgid "Bottom"
+msgstr ""
+
+#: framework/current/vc-elements/blog-posts.php:67
+#: framework/current/vc-elements/boxed-team-container.php:34
+#: framework/current/vc-elements/boxed-team.php:50
+#: framework/current/vc-elements/google-maps.php:38
+#: framework/current/vc-elements/module-box.php:40
+#: framework/current/vc-elements/portfolio.php:127
+#: framework/current/vc-elements/price-table.php:49
+#: framework/current/vc-elements/progress-bar.php:36
+#: framework/current/vc-elements/project-logo.php:40
+#: framework/current/vc-elements/slider-external-navigation.php:25
+#: framework/current/vc-elements/slider-external-navigation.php:97
+#: framework/current/vc-elements/template-box.php:35
+#: framework/current/vc-elements/timeline-carousel-container.php:34
+#: framework/current/vc-elements/timeline.php:41
+#@ nrgbusiness
+msgid "Themeton"
+msgstr ""
+
+#: framework/current/vc-elements/portfolio.php:139
+#@ nrgbusiness
+msgid "Column"
+msgstr ""
+
+#: framework/current/vc-elements/blog-posts.php:85
+#: framework/current/vc-elements/boxed-team-container.php:51
+#: framework/current/vc-elements/boxed-team.php:104
+#: framework/current/vc-elements/module-box.php:89
+#: framework/current/vc-elements/price-table.php:128
+#: framework/current/vc-elements/progress-bar.php:67
+#: framework/current/vc-elements/project-logo.php:76
+#: framework/current/vc-elements/slider-external-navigation.php:56
+#: framework/current/vc-elements/slider-external-navigation.php:146
+#: framework/current/vc-elements/timeline-carousel-container.php:39
+#@ nrgbusiness
+msgid "Extra Class"
+msgstr ""
+
+#: framework/current/vc-elements/blog-posts.php:87
+#: framework/current/vc-elements/boxed-team-container.php:53
+#: framework/current/vc-elements/boxed-team.php:106
+#: framework/current/vc-elements/module-box.php:91
+#: framework/current/vc-elements/price-table.php:130
+#: framework/current/vc-elements/progress-bar.php:69
+#: framework/current/vc-elements/project-logo.php:78
+#: framework/current/vc-elements/slider-external-navigation.php:58
+#: framework/current/vc-elements/slider-external-navigation.php:148
+#: framework/current/vc-elements/timeline-carousel-container.php:41
+#@ nrgbusiness
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:133
+#: framework/current/vc-elements/extended-tabs.php:205
+#: framework/current/vc-elements/module-box.php:69
+#: framework/current/vc-elements/price-table.php:96
+#: framework/current/vc-elements/slider-external-navigation.php:119
+#@ nrgbusiness
+msgid "Icon"
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:122
+#: framework/current/vc-elements/extended-tabs.php:194
+#: framework/current/vc-elements/module-box.php:52
+#: framework/current/vc-elements/price-table.php:79
+#: framework/current/vc-elements/slider-external-navigation.php:102
+#@ nrgbusiness
+msgid "Icon Type"
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:147
+#: framework/current/vc-elements/extended-tabs.php:219
+#: framework/current/vc-elements/module-box.php:62
+#: framework/current/vc-elements/price-table.php:89
+#: framework/current/vc-elements/slider-external-navigation.php:112
+#@ nrgbusiness
+msgid "Image Image"
+msgstr ""
+
+#: framework/current/vc-elements/price-table.php:110
+#: framework/current/vc-elements/progress-bar.php:42
+#: framework/current/vc-elements/project-logo.php:64
+#: framework/current/vc-elements/slider-external-navigation.php:140
+#: framework/current/vc-elements/timeline.php:65
+#@ nrgbusiness
+msgid "Description"
+msgstr ""
+
+#: framework/current/vc-elements/module-box.php:45
+#: framework/current/vc-elements/portfolio.php:132
+#: framework/current/vc-elements/price-table.php:54
+#: framework/current/vc-elements/slider-external-navigation.php:133
+#: framework/current/vc-elements/timeline.php:58
+#@ nrgbusiness
+msgid "Title"
+msgstr ""
+
+#: framework/current/vc-elements/google-maps.php:82
+#: framework/current/vc-elements/module-box.php:83
+#@ nrgbusiness
+msgid "Content"
+msgstr ""
+
+#: tpl-page-title.php:55
+#: tpl-page-title.php:67
+#, php-format
+#@ nrgbusiness
+msgid "View all posts in %s"
+msgstr ""
+
+#: framework/current/template-tags.php:135
+#@ nrgbusiness
+msgid "Pages"
+msgstr ""
+
+#: framework/current/template-tags.php:229
+#@ nrgbusiness
+msgid "Related Projects"
+msgstr ""
+
+#: framework/current/template-tags.php:238
+#@ nrgbusiness
+msgid "You might also like"
+msgstr ""
+
+#: framework/current/template-tags.php:349
+#@ nrgbusiness
+msgid "Type and hit Enter ..."
+msgstr ""
+
+#: framework/current/template-tags.php:350
+#@ nrgbusiness
+msgid "Go"
+msgstr ""
+
+#: framework/current/template-tags.php:453
+#@ nrgbusiness
+msgid "No Comments"
+msgstr ""
+
+#: framework/current/template-tags.php:455
+#@ nrgbusiness
+msgid "1 Comment"
+msgstr ""
+
+#: framework/current/template-tags.php:457
+#@ nrgbusiness
+msgid " Comments"
+msgstr ""
+
+#: framework/current/template-tags.php:473
+#@ nrgbusiness
+msgid "Comment navigation"
+msgstr ""
+
+#: framework/current/template-tags.php:476
+#@ nrgbusiness
+msgid "Older Comments"
+msgstr ""
+
+#: framework/current/template-tags.php:480
+#@ nrgbusiness
+msgid "Newer Comments"
+msgstr ""
+
+#: framework/current/template-tags.php:525
+#@ nrgbusiness
+msgctxt "Used between list items, there is a space after the comma."
+msgid " "
+msgstr ""
+
+#: framework/current/template-tags.php:528
+#@ nrgbusiness
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: framework/current/template-tags.php:538
+#@ nrgbusiness
+msgid "Share on:"
+msgstr ""
+
+#: framework/current/template-tags.php:621
+#, php-format
+#@ nrgbusiness
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/current/templates.php:1
+#@ nrgbusiness
+msgid "01: Portfolio Single Layout"
+msgstr ""
+
+#: framework/current/vc-elements/blog-posts.php:62
+#@ nrgbusiness
+msgid "Blog Posts"
+msgstr ""
+
+#: framework/current/vc-elements/blog-posts.php:63
+#@ nrgbusiness
+msgid "Only post type: post"
+msgstr ""
+
+#: framework/current/vc-elements/blog-posts.php:72
+#@ nrgbusiness
+msgid "Posts Count"
+msgstr ""
+
+#: framework/current/vc-elements/blog-posts.php:78
+#: framework/current/vc-elements/portfolio.php:189
+#@ nrgbusiness
+msgid "Categories"
+msgstr ""
+
+#: framework/current/vc-elements/blog-posts.php:79
+#@ nrgbusiness
+msgid "Specify category Id or leave blank to display items from all categories."
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team-container.php:26
+#@ nrgbusiness
+msgid "Boxed Team Carousel"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team-container.php:38
+#@ nrgbusiness
+msgid "How many member displays?"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team-container.php:43
+#@ nrgbusiness
+msgid "Three"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team-container.php:44
+#@ nrgbusiness
+msgid "Four"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team-container.php:45
+#@ nrgbusiness
+msgid "Five"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team.php:44
+#: framework/current/vc-elements/boxed-team.php:45
+#@ nrgbusiness
+msgid "Boxed team"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team.php:62
+#@ nrgbusiness
+msgid "Position"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team.php:68
+#: framework/current/vc-elements/project-logo.php:51
+#: framework/current/vc-elements/template-box.php:47
+#: framework/current/vc-elements/timeline.php:46
+#@ nrgbusiness
+msgid "Image"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team.php:98
+#@ nrgbusiness
+msgid "Social Icon Color"
+msgstr ""
+
+#: framework/current/vc-elements/project-logo.php:70
+#@ nrgbusiness
+msgid "Link"
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:95
+#: framework/current/vc-elements/extended-tabs.php:168
+#@ nrgbusiness
+msgid "Tabs Style"
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:98
+#: framework/current/vc-elements/extended-tabs.php:171
+#@ nrgbusiness
+msgid "Default"
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:105
+#: framework/current/vc-elements/extended-tabs.php:178
+#@ nrgbusiness
+msgid "Show Process Number"
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:154
+#: framework/current/vc-elements/extended-tabs.php:226
+#@ nrgbusiness
+msgid "Process number"
+msgstr ""
+
+#: framework/current/vc-elements/portfolio.php:94
+#@ nrgbusiness
+msgid "all"
+msgstr ""
+
+#: framework/current/vc-elements/portfolio.php:102
+#@ nrgbusiness
+msgid "View all works"
+msgstr ""
+
+#: framework/current/vc-elements/portfolio.php:122
+#@ nrgbusiness
+msgid "Portfolio"
+msgstr ""
+
+#: framework/current/vc-elements/portfolio.php:123
+#@ nrgbusiness
+msgid "post type: portfolio"
+msgstr ""
+
+#: framework/current/vc-elements/portfolio.php:159
+#@ nrgbusiness
+msgid "Show Filter"
+msgstr ""
+
+#: framework/current/vc-elements/price-table.php:67
+#@ nrgbusiness
+msgid "Price"
+msgstr ""
+
+#: framework/current/vc-elements/price-table.php:61
+#@ nrgbusiness
+msgid "Color"
+msgstr ""
+
+#: framework/current/vc-elements/price-table.php:73
+#@ nrgbusiness
+msgid "Per Year"
+msgstr ""
+
+#: framework/current/vc-elements/price-table.php:116
+#: framework/current/vc-elements/template-box.php:59
+#@ nrgbusiness
+msgid "Button Text"
+msgstr ""
+
+#: framework/current/vc-elements/price-table.php:122
+#@ nrgbusiness
+msgid "Button Link"
+msgstr ""
+
+#: framework/current/vc-elements/progress-bar.php:31
+#@ nrgbusiness
+msgid "Progress Bar"
+msgstr ""
+
+#: framework/current/vc-elements/progress-bar.php:32
+#@ nrgbusiness
+msgid "Show Process"
+msgstr ""
+
+#: framework/current/vc-elements/progress-bar.php:49
+#@ nrgbusiness
+msgid "Precentage"
+msgstr ""
+
+#: framework/current/vc-elements/progress-bar.php:55
+#@ nrgbusiness
+msgid "Precentage color"
+msgstr ""
+
+#: framework/current/vc-elements/progress-bar.php:61
+#@ nrgbusiness
+msgid "Precentage background color"
+msgstr ""
+
+#: framework/current/vc-elements/project-logo.php:35
+#: framework/current/vc-elements/project-logo.php:36
+#@ nrgbusiness
+msgid "Project with Logo"
+msgstr ""
+
+#: framework/current/vc-elements/project-logo.php:45
+#@ nrgbusiness
+msgid "Logo"
+msgstr ""
+
+#: framework/current/vc-elements/project-logo.php:57
+#@ nrgbusiness
+msgid "Project Name"
+msgstr ""
+
+#: framework/current/vc-elements/timeline-carousel-container.php:26
+#@ nrgbusiness
+msgid "Timeline Carousel"
+msgstr ""
+
+#: framework/current/vc-elements/timeline.php:35
+#: framework/current/vc-elements/timeline.php:36
+#@ nrgbusiness
+msgid "Timeline"
+msgstr ""
+
+#: framework/current/vc-elements/timeline.php:52
+#@ nrgbusiness
+msgid "Date"
+msgstr ""
+
+#: framework/functions/functions.breadcrumb.php:79
+#@ nrgbusiness
+msgid "Error 404: Page not found"
+msgstr ""
+
+#: framework/functions/functions.breadcrumb.php:80
+#@ nrgbusiness
+msgid "Archives for"
+msgstr ""
+
+#: framework/functions/functions.breadcrumb.php:81
+#: tpl-page-title.php:36
+#@ nrgbusiness
+msgid "Home"
+msgstr ""
+
+#: framework/functions/functions.breadcrumb.php:82
+#@ nrgbusiness
+msgid "You searched for"
+msgstr ""
+
+#: framework/functions/functions.for.theme.php:80
+#@ nrgbusiness
+msgid "Comments"
+msgstr ""
+
+#: framework/functions/functions.for.theme.php:82
+#@ nrgbusiness
+msgid "Comment"
+msgstr ""
+
+#: framework/functions/functions.for.theme.php:85
+#@ nrgbusiness
+msgid "No Comment"
+msgstr ""
+
+#: framework/functions/functions.for.theme.php:176
+#@ nrgbusiness
+msgid "Written by "
+msgstr ""
+
+#: framework/functions/functions.for.theme.php:184
+#@ nrgbusiness
+msgid "The author didnt add any Information to his profile yet"
+msgstr ""
+
+#: framework/functions/functions.for.theme.php:203
+#@ nrgbusiness
+msgid "Share"
+msgstr ""
+
+#: framework/functions/functions.for.theme.php:245
+#@ nrgbusiness
+msgid "Site Customize"
+msgstr ""
+
+#: framework/functions/functions.for.theme.php:252
+#@ nrgbusiness
+msgid "Import Demo"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:336
+#: framework/functions/plugin-install.php:69
+#@ nrgbusiness
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/functions/plugin-install.php:82
+#, php-format
+#@ nrgbusiness
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:65
+#@ nrgbusiness
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:66
+#@ nrgbusiness
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:109
+#@ nrgbusiness
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: tpl-page-title.php:18
+#, php-format
+#@ nrgbusiness
+msgid "Category: %s"
+msgstr ""
+
+#: tpl-page-title.php:22
+#: tpl-page-title.php:24
+#@ nrgbusiness
+msgid "Shop"
+msgstr ""
+
+#: tpl-page-title.php:34
+#@ nrgbusiness
+msgid "Projects"
+msgstr ""
+
+#: 404.php:8
+#@ nrgbusiness
+msgid "404"
+msgstr ""
+
+#: 404.php:13
+#@ nrgbusiness
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: 404.php:21
+#@ nrgbusiness
+msgid "For best search results, mind the following suggestions:"
+msgstr ""
+
+#: 404.php:23
+#@ nrgbusiness
+msgid "Always double check your spelling."
+msgstr ""
+
+#: 404.php:24
+#@ nrgbusiness
+msgid "Try similar keywords, for example: tablet instead of laptop."
+msgstr ""
+
+#: 404.php:25
+#@ nrgbusiness
+msgid "Try using more than one keyword."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:348
+#, php-format
+#@ themeton
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:358
+#, php-format
+#@ themeton
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:363
+#, php-format
+#@ themeton
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:378
+#, php-format
+#@ themeton
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:388
+#@ themeton
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:401
+#, php-format
+#@ nrgbusiness
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:402
+#, php-format
+#@ nrgbusiness
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:405
+#@ nrgbusiness
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:524
+#@ nrgbusiness
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:525
+#@ nrgbusiness
+msgid "Update Required"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:639
+#@ nrgbusiness
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:940
+#@ nrgbusiness
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:940
+#: framework/classes/class.tgm.plugin.activation.php:943
+#@ nrgbusiness
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:943
+#@ nrgbusiness
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1121
+#: framework/classes/class.tgm.plugin.activation.php:2833
+#@ nrgbusiness
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1886
+#, php-format
+#@ nrgbusiness
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2194
+#@ nrgbusiness
+msgid "External Source"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2220
+#@ nrgbusiness
+msgid "Active"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2226
+#@ nrgbusiness
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2229
+#@ nrgbusiness
+msgid "Requires Update"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2232
+#@ nrgbusiness
+msgid "Update recommended"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2240
+#, php-format
+#@ nrgbusiness
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2285
+#, php-format
+#@ nrgbusiness
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2288
+#, php-format
+#@ nrgbusiness
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2291
+#, php-format
+#@ nrgbusiness
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2294
+#, php-format
+#@ nrgbusiness
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2376
+#@ nrgbusiness
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2384
+#@ nrgbusiness
+msgid "Installed version:"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2392
+#@ nrgbusiness
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2404
+#@ nrgbusiness
+msgid "Available version:"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2427
+#, php-format
+#@ nrgbusiness
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2447
+#@ nrgbusiness
+msgid "Version"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2500
+#, php-format
+#@ nrgbusiness
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2575
+#@ nrgbusiness
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2614
+#@ nrgbusiness
+msgid "Update"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2648
+#@ nrgbusiness
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2650
+#@ nrgbusiness
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2688
+#@ nrgbusiness
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2793
+#@ nrgbusiness
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3367
+#, php-format
+#@ nrgbusiness
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:88
+#@ nrgbusiness
+msgid "Don't need hash (#) tag at first. You can add a custom link with http protocol to redirect."
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:96
+#@ nrgbusiness
+msgid "One page labels type <small>(only for left header style)</small>"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:108
+#@ nrgbusiness
+msgid "One page labels icon <small>(only for left header style)</small>"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:121
+#@ nrgbusiness
+msgid "One page labels image (only for left header style)"
+msgstr ""
+
+#: framework/current/template-tags.php:606
+#@ nrgbusiness
+msgid "Pingback:"
+msgstr ""
+
+#: framework/current/template-tags.php:606
+#: framework/current/template-tags.php:625
+#@ nrgbusiness
+msgid "Edit"
+msgstr ""
+
+#: framework/current/template-tags.php:620
+#, php-format
+#@ nrgbusiness
+msgid "<h5 class=\"comment-user-name\">%s</h5>"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team-container.php:27
+#@ nrgbusiness
+msgid "Boxed Team Slider Container"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team-container.php:41
+#@ nrgbusiness
+msgid "One"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team-container.php:42
+#@ nrgbusiness
+msgid "Two"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team.php:74
+#@ nrgbusiness
+msgid "Facebook URL (optional)"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team.php:80
+#@ nrgbusiness
+msgid "Twitter URL (optional)"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team.php:86
+#@ nrgbusiness
+msgid "Google+ URL (optional)"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team.php:92
+#@ nrgbusiness
+msgid "Linkedin URL (optional)"
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:99
+#: framework/current/vc-elements/extended-tabs.php:172
+#@ nrgbusiness
+msgid "Process (beautiful, allows process line)"
+msgstr ""
+
+#: framework/current/vc-elements/google-maps.php:33
+#@ nrgbusiness
+msgid "Google Map"
+msgstr ""
+
+#: framework/current/vc-elements/google-maps.php:34
+#@ nrgbusiness
+msgid "Google Maps Latitude, Longitude"
+msgstr ""
+
+#: framework/current/vc-elements/google-maps.php:45
+#@ nrgbusiness
+msgid "Latitude"
+msgstr ""
+
+#: framework/current/vc-elements/google-maps.php:51
+#@ nrgbusiness
+msgid "Longitude"
+msgstr ""
+
+#: framework/current/vc-elements/google-maps.php:57
+#@ nrgbusiness
+msgid "Hue Color"
+msgstr ""
+
+#: framework/current/vc-elements/google-maps.php:63
+#@ nrgbusiness
+msgid "Zoom"
+msgstr ""
+
+#: framework/current/vc-elements/google-maps.php:70
+#@ nrgbusiness
+msgid "Height"
+msgstr ""
+
+#: framework/current/vc-elements/google-maps.php:76
+#@ nrgbusiness
+msgid "Marker Image"
+msgstr ""
+
+#: framework/current/vc-elements/module-box.php:35
+#: framework/current/vc-elements/module-box.php:36
+#@ nrgbusiness
+msgid "Module Box"
+msgstr ""
+
+#: framework/current/vc-elements/portfolio.php:153
+#@ nrgbusiness
+msgid "Count (posts per page)"
+msgstr ""
+
+#: framework/current/vc-elements/portfolio.php:169
+#: framework/current/vc-elements/portfolio.php:179
+#@ nrgbusiness
+msgid "Show more button?"
+msgstr ""
+
+#: framework/current/vc-elements/portfolio.php:190
+#@ nrgbusiness
+msgid "Specify category ID (multiple IDs with comma) or leave blank to display items from all categories."
+msgstr ""
+
+#: framework/current/vc-elements/price-table.php:44
+#@ nrgbusiness
+msgid "Price Table Column"
+msgstr ""
+
+#: framework/current/vc-elements/price-table.php:45
+#@ nrgbusiness
+msgid "A column of price table"
+msgstr ""
+
+#: framework/current/vc-elements/slider-external-navigation.php:21
+#@ nrgbusiness
+msgid "Slider navigation"
+msgstr ""
+
+#: framework/current/vc-elements/slider-external-navigation.php:22
+#@ nrgbusiness
+msgid "External Revolution slideshow navigator container"
+msgstr ""
+
+#: framework/current/vc-elements/slider-external-navigation.php:34
+#@ nrgbusiness
+msgid "Column number"
+msgstr ""
+
+#: framework/current/vc-elements/slider-external-navigation.php:46
+#@ nrgbusiness
+msgid "Design Style"
+msgstr ""
+
+#: framework/current/vc-elements/slider-external-navigation.php:91
+#@ nrgbusiness
+msgid "Slider navigation element"
+msgstr ""
+
+#: framework/current/vc-elements/slider-external-navigation.php:92
+#@ nrgbusiness
+msgid "Slider external navigation element"
+msgstr ""
+
+#: framework/current/vc-elements/template-box.php:30
+#: framework/current/vc-elements/template-box.php:31
+#@ nrgbusiness
+msgid "Template Box"
+msgstr ""
+
+#: framework/current/vc-elements/template-box.php:53
+#@ nrgbusiness
+msgid "Border Color"
+msgstr ""
+
+#: framework/current/vc-elements/template-box.php:65
+#@ nrgbusiness
+msgid "Button link"
+msgstr ""
+
+#: framework/current/vc-elements/timeline-carousel-container.php:27
+#@ nrgbusiness
+msgid "Timeline Container"
+msgstr ""
+
+#: framework/widgets/social_links_widget.php:63
+#@ nrgbusiness
+msgid "Widget Title:"
+msgstr ""
+
+#: functions.php:125
+#@ nrgbusiness
+msgid "Footer Column"
+msgstr ""
+
+#: functions.php:127
+#@ nrgbusiness
+msgid "Add widgets here to appear in your footer column"
+msgstr ""
+
+#: search.php:18
+#@ nrgbusiness
+msgid "<h4>Nothing found, please search again with an another query.</h4>"
+msgstr ""
+

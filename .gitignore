@@ -33,5 +33,6 @@ web/.htaccess
 # WP Plugins
 web/app/object-cache.php
 web/app/advanced-cache.php
+!web/app/themes/nrgbusiness
 
 .DS_Store
