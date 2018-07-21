@@ -31,7 +31,7 @@
 	<description>Powerful One Page Biz Theme</description>
 	<pubDate>Fri, 29 Jan 2016 04:48:42 +0000</pubDate>
 	<language>en-US</language>
-	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:wxr_version>1.1</wp:wxr_version>
 	<wp:base_site_url>http://demo.themeton.com/</wp:base_site_url>
 	<wp:base_blog_url>http://demo.themeton.com/nrgbusiness</wp:base_blog_url>
 
@@ -816,7 +816,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1698;s:6:"height";i:1131;s:4:"file";s:32:"revslider/business/slide_bg2.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"slide_bg2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"slide_bg2-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"slide_bg2-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"slide_bg2-860x290.jpg";s:5:"width";i:860;s:6:"height";i:290;s:9:"mime-type";s:10:"image/jpeg";}s:22:"nrgbusiness-blog-thumb";a:4:{s:4:"file";s:21:"slide_bg2-360x270.jpg";s:5:"width";i:360;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:18:"nrgbusiness-member";a:4:{s:4:"file";s:21:"slide_bg2-269x400.jpg";s:5:"width";i:269;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:23:"nrgbusiness-project-img";a:4:{s:4:"file";s:21:"slide_bg2-400x400.jpg";s:5:"width";i:400;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:7.0999999999999996;s:6:"credit";s:0:"";s:6:"camera";s:9:"NIKON D3X";s:7:"caption";s:228:"Group of a happy Business People standing together and looking at the camera. Isolated on white background.[url=http://www.istockphoto.com/search/lightbox/9786622][img]http://dl.dropbox.com/u/40117171/business.jpg[/img][/url]";s:17:"created_timestamp";i:1323540727;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"31";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:7:"0.00625";s:5:"title";s:27:"Successful Business People.";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1698;s:6:"height";i:1131;s:4:"file";s:32:"revslider/business/slide_bg2.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"slide_bg2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"slide_bg2-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"slide_bg2-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"slide_bg2-860x290.jpg";s:5:"width";i:860;s:6:"height";i:290;s:9:"mime-type";s:10:"image/jpeg";}s:22:"nrgbusiness-blog-thumb";a:4:{s:4:"file";s:21:"slide_bg2-360x270.jpg";s:5:"width";i:360;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:18:"nrgbusiness-member";a:4:{s:4:"file";s:21:"slide_bg2-269x400.jpg";s:5:"width";i:269;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:23:"nrgbusiness-project-img";a:4:{s:4:"file";s:21:"slide_bg2-400x400.jpg";s:5:"width";i:400;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:7.0999999999999996;s:6:"credit";s:0:"";s:6:"camera";s:9:"NIKON D3X";s:7:"caption";s:228:"Group of a happy Business People standing together and looking at the camera.Isolated on white background.[url=http://www.istockphoto.com/search/lightbox/9786622][img]http://dl.dropbox.com/u/40117171/business.jpg[/img][/url]";s:17:"created_timestamp";i:1323540727;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"31";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:7:"0.00625";s:5:"title";s:27:"Successful Business People.";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3136,19 +3136,19 @@ header.header{
 		<content:encoded><![CDATA[<div class='contact-us'>
 <div class='row'>
 <div class='col-md-6 col-sm-6'>
-      [text* your-name placeholder "Your name"] 
+      [text* your-name placeholder "Your name"]
 </div>
 
 <div class='col-md-6 col-sm-6'>
-      [text* your-email placeholder "Your email"] 
+      [text* your-email placeholder "Your email"]
 </div>
 
 <div class='col-md-6 col-sm-6'>
-      [text* your-subject placeholder "Subject"] 
+      [text* your-subject placeholder "Subject"]
 </div>
 
 <div class='col-md-6 col-sm-6'>
-      [text* your-tel placeholder "Contact phone"] 
+      [text* your-tel placeholder "Contact phone"]
 </div>
 
 <div class='col-md-12 col-sm-12'>
@@ -3159,8 +3159,8 @@ header.header{
 </div>
 </div>
 [your-subject]
-[your-name] 
-From: [your-name] 
+[your-name]
+From: [your-name]
 Subject: [your-subject]
 
 Message Body:
@@ -3174,7 +3174,7 @@ test@gmail.com
 
 
 [your-subject]
-[your-name] 
+[your-name]
 Message Body:
 [your-message]
 
@@ -3223,19 +3223,19 @@ Failed to upload file. Error occurred.]]></content:encoded>
 			<wp:meta_value><![CDATA[<div class='contact-us'>
 <div class='row'>
 <div class='col-md-6 col-sm-6'>
-      [text* your-name placeholder "Your name"] 
+      [text* your-name placeholder "Your name"]
 </div>
 
 <div class='col-md-6 col-sm-6'>
-      [text* your-email placeholder "Your email"] 
+      [text* your-email placeholder "Your email"]
 </div>
 
 <div class='col-md-6 col-sm-6'>
-      [text* your-subject placeholder "Subject"] 
+      [text* your-subject placeholder "Subject"]
 </div>
 
 <div class='col-md-6 col-sm-6'>
-      [text* your-tel placeholder "Contact phone"] 
+      [text* your-tel placeholder "Contact phone"]
 </div>
 
 <div class='col-md-12 col-sm-12'>
